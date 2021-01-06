@@ -3,7 +3,7 @@
   "name": "warsow-web-server",
   "version": "0.1.0",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt": "^3.0.0",
     "express": "^4.16.2",
     "express-ws": "^4.0.0",
