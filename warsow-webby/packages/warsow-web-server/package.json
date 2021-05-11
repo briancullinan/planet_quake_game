@@ -8,7 +8,7 @@
     "express": "^4.16.2",
     "express-ws": "^4.0.0",
     "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "lokijs": "^1.5.5",
     "mailgun-js": "^0.20.0",
     "warsow-common": "^0.1.0",
